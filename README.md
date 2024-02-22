@@ -24,6 +24,9 @@ https://github.com/elastic/elasticsearch-js
 ## ElasticSearch CRUD
 https://www.elastic.co/guide/en/elasticsearch/reference/current/full-text-queries.html
 
+## Logstash
+https://www.elastic.co/jp/logstash
+
 POST
 ```bash
 // ドキュメントだけつくる
